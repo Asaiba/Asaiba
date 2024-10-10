@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asaiba
-- 👀 I’m interested in : Designing
-- 🌱 I’m currently learning : Angular
+- 👀 I’m interested in : Designing, Web applications and Database models
+- 🌱 I’m currently learning : Angular & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : saibaaubin@gmail.com
 <!---
